@@ -1,6 +1,6 @@
 # Glossário sobre alguns conceitos de POO
 
-* [Construtor](..Glossario.md#construtor)
+* [Construtor](https://github.com/JEsidio/Programacao-POO-2018/blob/master/Glossario/Glossario.md#construtor)
 * [Instanciação](../blob/master/Glossario/Glossario.md#nstanciação)
 * [Palavra reservada new](../blob/master/Glossario/Glossario.md#palavra-reservada-new)
 * [Palavra reservada instanceof](../blob/master/Glossario/Glossario.md#palavra-reservada-instanceof)
