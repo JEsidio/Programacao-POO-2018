@@ -1,2 +1,2 @@
-# Programacao POO 2018
-### Testando 
+# Programação POO 2018
+### Pasta com as atividades solicitadas em aula
