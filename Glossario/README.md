@@ -19,6 +19,8 @@
 * [Relacionamento de Composição](https://github.com/JEsidio/Programacao-POO-2018/blob/master/Glossario/Glossario.md#relacionamento-de-composição)
 
 # Referências
+>AGUILAR, Luis Joyanes. Programação em C ++ - 2.ed.: Algoritmos, estruturas de dados e objetos. Porto Alegre: AMGH, 2011.
+>
 >LANHELLAS, Ronaldo. Construtores em Java. Disponível em: <https://www.devmedia.com.br/construtores-em-java/28618>. Acesso em: 15 jun. 2018.
 >
 >XAVIER, Denys William. Instanciar Objetos. Disponível em: <http://www.tiexpert.net/programacao/java/new.php>. Acesso em: 15 jun. 2018.
