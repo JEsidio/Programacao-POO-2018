@@ -173,7 +173,13 @@ public class MinhaClasse {// início do escopo
 ```
 
 ## Escopo de Objeto
-
+O escopo de um objeto é sua visibilidade de outras partes do programa, o que implica não apenas quanto tempo existe a variável, como também quando foi criada e quando se tornou disponível. Um objeto definido dentro de uma função tem escopo local, e se é definido fora de qualquer função tem escopo global.
+```java
+public static void main(String args[]){
+	Pessoa pessoa1;
+	pessoa1 = new Pessoa(“Fulano”, 25, ’M’);
+}
+```
 
 ## Palavra reservada final 
 Na variável final uma vez atribuído um valor a ela esse valor não pode ser modificado. Quando final é usado a variável, classe, método, etc não pode ser modificado.
