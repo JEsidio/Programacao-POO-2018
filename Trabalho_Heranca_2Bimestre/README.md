@@ -37,7 +37,7 @@
 > * Nome do Produto : Xuxa para Baixinhos 20.
 > * Duração : 120 minutos.
 > * Gravadora : Soni
----
+
 > * Tipo de Produto : Pen-Drive
 > * Nome do Produto : Pen-Drive Supremo.
 > * Capacidade: 16 Gb.
