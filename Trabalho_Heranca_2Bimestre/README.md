@@ -5,13 +5,13 @@
 
 #
 
-### [Cenário 1](https://https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario1)
+### [Cenário 1](https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario1)
 > Pluto desenvolveu algumas classes para o sistema de petshop e pediu para você dar uma olhada. Logo você percebe que existe muitas repetições de código e resolve remodelar as classes. Utilize a técnica de herança para promover a reutilização de código.
 > 
 
 #
 
-### [Cenário 2](https://https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario2)
+### [Cenário 2](https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario2)
 > Donald Knuth ficou responsável por modelar as informações de clientes, fornecedores e funcionários de um novo software de gestão empresarial. Knuth recebeu do usuário chave as seguintes informações de cadastros coletadas pelas empresa:
 > 
 > -> Funcionário : Nome, Sobrenome, CPF, Endereço, RG, Sexo, Salário, Email, Número de Registro, Número e Série da Carteira de Trabalho, Data de Nascimento, Departamento, Cargo, Salário, Turno, Telefone.
@@ -28,7 +28,7 @@
 
 #
 
-### [Cenário 3](https://https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario3)
+### [Cenário 3](https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario3)
 > A Livraria Rei dos livros vende os seguintes produtos: CD de música, DVD de filmes e séries, pen-drives, livros e jogos eletrônicos.
 > 
 > O Gerente da Livraria solicitou o desenvolvimento de um relatório de todos os produtos da empresa. No relatório deve conter todas as informações dos produtos, listados conforme o exemplo abaixo:
@@ -47,5 +47,5 @@
 
 #
 
-### [Cenário 4](https://https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario4)
+### [Cenário 4](https://github.com/JEsidio/Programacao-POO-2018/tree/master/Trabalho_Heranca_2Bimestre/Heranca_Cenario4)
 > Desenvolva um programa que calcule o volume de diferentes sólidos geométricos (no mínimo 4), por exemplo cubo, piramide, cilindro, etc.). Utilize a técnica de Herança/Generalização e sobrescrita de métodos. Crie um objeto de exemplo para cada classe e imprime o volume. Crie uma classe responsável por essa impressão em tela.
